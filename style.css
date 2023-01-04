@@ -8,25 +8,20 @@ div, label, select{
     display: block;
     margin-bottom: 1em;
 }
-
 .gender > label{
     display: inline-block;
 }
-
 fieldset > div > label, input{
     display: inline-block;
 }
-
 button{
     width: 10em;
     border-radius: 10px;
     font-size: 1em;
 }
-
 button:hover {
     box-shadow: 0 1em 1em 0 rgba(147, 110, 161, 0.3), 0 25px 75px 0 rgba(189, 174, 197, 0.3);
 }
-
 a{
     text-decoration: none;
     color: rgb(59, 2, 68);
